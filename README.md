@@ -9,4 +9,5 @@ npm i
 npm start
 ```
 
-Author: Boštjan Pišer @ [Studio 404](http://studio404.net)
+Author: Boštjan Pišler @ [Studio 404](http://studio404.net)
+For use in [Enostavni računi](https://enostavni-racuni.eu) and [Space Invoices](http://space-invoices.com)
