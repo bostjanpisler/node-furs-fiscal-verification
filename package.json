@@ -1,0 +1,26 @@
+{
+  "name": "node-tls-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_TLS_REJECT_UNAUTHORIZED=0 node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "biguint-format": "^1.0.0",
+    "jsonschema": "^1.2.0",
+    "jsonwebtoken": "^8.0.0",
+    "jsrsasign": "^8.0.3",
+    "md5": "^2.2.1",
+    "moment": "^2.18.1",
+    "node-forge": "^0.7.1",
+    "request": "^2.81.0",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.6.1"
+  }
+}
