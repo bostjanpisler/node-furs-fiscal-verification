@@ -9,5 +9,7 @@ npm i
 npm start
 ```
 
+If you're looking for a complete invoicing API soluction check out our project [Space Invoices](https://spaceinvoices.com).
+
 Author: Boštjan Pišler @ [Studio 404](http://studio404.net)
-For use in [Enostavni računi](https://enostavni-racuni.eu) and [Space Invoices](http://space-invoices.com)
+For use in [Enostavni računi](https://enostavni-racuni.eu), [Space Invoices](https://spaceinvoices.com) and [Apollo](https://getapollo.io) projects.
